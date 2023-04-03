@@ -10,3 +10,10 @@
 ![alt text](https://github.com/chrisagordon/MechaCar_Statistical_Analysis/blob/main/Challenge/lot_summary%20dataframe.PNG)
 
 -From the photo above, Lot 3 Suspension Coils do not meet the manufacturing specifications that the variance should not exceed 100 lbs per square inch.
+
+## T-Tests on Suspension Coils
+
+![alt text](https://github.com/chrisagordon/MechaCar_Statistical_Analysis/blob/main/Challenge/t-test_results.PNG)
+
+- From this screenshot we can conclude that the Suspension coils in Lot 3 are different than the rest of the group PSI wise
+- All other groups did not vary since their P-Value was above the significance level of 0.05
