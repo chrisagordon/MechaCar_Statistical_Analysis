@@ -17,3 +17,11 @@
 
 - From this screenshot we can conclude that the Suspension coils in Lot 3 are different than the rest of the group PSI wise
 - All other groups did not vary since their P-Value was above the significance level of 0.05
+
+## Study Design: MechaCar vs Competition
+As a consumer what I would most be interested about a vehicle would be its resale value.
+
+- Metric to Test: Resale value, is this impacted by city or highway mpg, odometer current reading, year of manufacturing date
+- Null Hypothesis: MechaCar's resale value is not impacted by mpg, odometer reading or manufacture date
+- Statistical Test: Multiple Regression Summary
+- Data Required: All the above mentioned data in metric to test
